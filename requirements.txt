@@ -1,0 +1,9 @@
+# cairosvg
+# pillow
+# pandas
+# numpy
+# aws-xray-sdk==2.8.0
+# requests==2.24.0
+aws-lambda-context==1.1.0
+pdf2docx==0.5.8
+boto3
